@@ -34,7 +34,7 @@
                 </div>
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="h-100">
-                        <h1 class="display-6">1. Encuentra nuestros datos de contacto </h1>
+                        <h1 class="display-6 texto_card_funcion">1. Encuentra nuestros datos de contacto </h1>
                         <p class="text-primary fs-5 mb-4">
                             En nuestra página web, encontrarás nuestra información de contacto, como dirección de correo electrónico, número de teléfono y posiblemente un formulario de contacto. Puedes elegir el método que te resulte más conveniente para comunicarte con nosotros.
                         </p>
@@ -44,7 +44,7 @@
             <div class="row g-5 align-items-center como_funciona">
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="h-100">
-                        <h1 class="display-6">2. Envía tu consulta</h1>
+                        <h1 class="display-6 texto_card_funcion">2. Envía tu consulta</h1>
                         <p class="text-primary fs-5 mb-4">Una vez que hayas encontrado nuestros datos de contacto, puedes enviarnos un correo electrónico, llamarnos o completar el formulario de contacto proporcionando los detalles de tu tarea. Incluye toda la información relevante, como el tema, nivel educativo, fecha de entrega y cualquier requisito específico que debamos tener en cuenta.  
                         </p>
                     </div>
@@ -59,7 +59,7 @@
                 </div>
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="h-100">
-                        <h1 class="display-6">3. Recibimos tu consulta </h1>
+                        <h1 class="display-6 texto_card_funcion">3. Recibimos tu consulta </h1>
                         <p class="text-primary fs-5 mb-4">Una vez que hayamos recibido tu consulta, nuestro equipo revisará la información y evaluará tus necesidades. Si es necesario, nos pondremos en contacto contigo para obtener más detalles o aclaraciones sobre la tarea 
                         </p>
                     </div>
@@ -68,7 +68,7 @@
             <div class="row g-5 align-items-center como_funciona">
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="h-100">
-                        <h1 class="display-6">4. Cotización y confirmación</h1>
+                        <h1 class="display-6 texto_card_funcion">4. Cotización y confirmación</h1>
                         <p class="text-primary fs-5 mb-4">Una vez que hayamos evaluado tus necesidades, te proporcionaremos una cotización para el servicio y el tiempo estimado de entrega. Esta cotización incluirá los detalles sobre los costos y las condiciones de pago. Si estás de acuerdo, deberás confirmar tu solicitud y aceptar los términos y condiciones.
                         </p>
                     </div>
@@ -83,7 +83,7 @@
                 </div>
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="h-100">
-                        <h1 class="display-6">5. Realiza el pago </h1>
+                        <h1 class="display-6 texto_card_funcion">5. Realiza el pago </h1>
                         <p class="text-primary fs-5 mb-4">Dspués de confirmar tu solicitud, se te proporcionarán las opciones de pago disponibles. Podrás realizar el pago utilizando los métodos de pago aceptados en nuestro sitio web. Una vez que se haya completado el pago, el proceso de trabajo comenzará.
                         </p>
                     </div>
@@ -107,7 +107,7 @@
                 </div>
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="h-100">
-                        <h1 class="display-6">7. Entrega de la tarea finalizada </h1>
+                        <h1 class="display-6 texto_card_funcion">7. Entrega de la tarea finalizada </h1>
                         <p class="text-primary fs-5 mb-4">Una vez que hayamos completado la tarea solicitada, te enviaremos la entrega final en el formato acordado. Podrás revisar el trabajo y, si es necesario, solicitar revisiones o ajustes dentro de los límites establecidos en nuestras políticas.
                         </p>
                     </div>

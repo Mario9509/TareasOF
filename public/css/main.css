@@ -30,9 +30,13 @@
 	text-align: justify!important;
 }
 
+.texto_card_funcion{
+    font-size: 2rem!important;
+}
 
 
-///////codigo precios////////////////////////
+
+/*//////codigo precios///////////////////////*/
 
 section.pricing {
     background: #007bff;
@@ -102,4 +106,4 @@ section.pricing {
     }
 }
 
-///////codigo precios////////////////////////
+/*//////codigo precios///////////////////////*/
